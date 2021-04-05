@@ -1,37 +1,27 @@
 ---
 layout: page
-title: Nosotros
+title: SanAgustiniando
 permalink: /nosotros/
-image: '/images/60.jpg'
+image: '/images/portada-sanagustiniando.webp'
 ---
+El Libro de San Agustin www.librodesanagustin.co (página en desuso), un espacio virtual que durante años contribuyó a la difusión de la memoria histórica local, sigue ajustándose a la actualidad de nuestro territorio. **Ahora orgullosamente se presenta como www.sanagustiniando.co**, un sitio web con información local histórica y cultural, y una proyección de contenidos estructurados, analíticos e independientes.
 
-Hi, my name is Adam Howard. I'm a writer and photographer. I like being at the center of events, being free and enjoying every moment. Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. In qua quid est boni praeter summam voluptatem, et eam cur post. Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Natura sic ab iis investigata est, ut nulla pars caelo deinde optimum plurimas amico disputari.
+Síguenos también en la redes sociales.
 
-![My best moments]({{site.baseurl}}/images/70.jpg)
+## ¿Quiénes Somos?
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan.
+Somos un colectivo de gestores culturales locales **asociados con la FUNDACIÓN IPAKÚ**, para apoyar y alimentar conjuntamente el sitio virtual “sanagustiniando.co” el cual nació en el año 2015 con el libro virtual: Libro de San Agustín. Desde ese año, este proyecto cultural ha investigado, ahondado y difundido en el mundo virtual visiones a nuestro territorio y nuestras raíces.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/71.jpg">
-    <img src="/images/72.jpg">
-    <img src="/images/73.jpg">
-  </div>
-  <em>My best moments / <a href="https://unsplash.com/@jakobowens1" target="_blank">Jakob Owens</a></em>
-</div>
+Hoy en día, el proyecto entra en una nueva fase y con www.sanagustiniando.co estamos proyectados a ser un portal territorial más enriquecido por sus contenidos desarrollados con el asocio de representantes y entidades culturales y educativas, amigos de esta región, y la experiencia de la *Fundación IPAKÚ – COLECTIVO IMAGEN, PATRIMONIO Y CULTURA DE SAN AGUSTÍN* que se planteó desde hace años la idea de investigar y ahondar en nuestras raíces.
 
-1. Host is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for.
-2. The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.
-3. For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.
+También somos el viento, el aire, la montaña, el río, el oso, el maíz, la danta, la madre, el niño, el pueblo, la escuela, somos nariñenses, caucanos, huilenses, somos del mundo, buscando la vida, la identidad, nuestra historia, SOMOS NOSOTROS!
 
+¡¡Bienvenidos, adelante y exploren!!
 
-<p><iframe src="https://www.youtube.com/embed/R3VMW6fxK6Y" frameborder="0" allowfullscreen></iframe></p>
+## Misión
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente non potest.
+www.sanagustiniando.co es un portal digital que impulsa visiones del Macizo Colombiano con contenidos que construyen el territorio.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>George Bernard Shaw</cite>
+## Visión
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime.
+www.sanagustiniando.co será un portal digital donde se visibiliza, transforma y crea una narrativa cultural y social de San Agustín, Isnos y el Macizo Colombiano.
