@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://klerpson.github.io/sanagustiniando//sitemap.xml
