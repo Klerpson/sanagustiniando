@@ -4,13 +4,13 @@ title: SanAgustiniando
 logo: # You can add own logo. For example '/images/logo.png'.
 description: San Agustín Huila es un hermoso pueblo lleno de riquezas culturales, naturales, históricas, artísticas y humanas. ¡Descúbrelas!
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "klerpson.github.io/sanagustiniando/" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # Author Settings
 author:
-  avatar: '/images/01.jpg'
+  avatar: '/images/logo.png'
   name: San Agustín Huila
   job: Centro de cultura y humanidad
 
