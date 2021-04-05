@@ -1,36 +1,45 @@
 [
   
     {
-      "title"    : "That which does not kill us makes us stronger",
+      "title"    : "Poesía La Mujer Perfecta",
       "category" : "",
-      "tags"     : "Travel and Rest",
-      "url"      : "/that-which-does-not-kill-us-makes-us-stronger",
-      "date"     : "Nov 13, 2018",
-      "image": "/images/20.jpg"
+      "tags"     : "Literatura, Poesía, and Agustín Andaquí",
+      "url"      : "/la-mujer-perfecta",
+      "date"     : "Mar 29, 2021",
+      "image": "/images/arturo-mosquera/arturo-mosquera.webp"
     } ,
   
     {
-      "title"    : "Do what you can, with what you have, where you are",
+      "title"    : "La Primera Muerte de Don Eliecer",
       "category" : "",
-      "tags"     : "Life, Travel, and River",
-      "url"      : "/do-what-you-can-with-what-you-have-where-you-are",
-      "date"     : "Nov 12, 2018",
-      "image": "/images/21.jpg"
+      "tags"     : "Literatura, Cuento, and David Dellenback",
+      "url"      : "/la-primera-muerte-de-don-eliecer",
+      "date"     : "Mar 5, 2021",
+      "image": "/images/david-dellenback/primera-muerte-don-eliecer.webp"
     } ,
   
     {
-      "title"    : "If you cannot do great things, do small things in a great way",
+      "title"    : "El Minuto de Kat",
       "category" : "",
-      "tags"     : "Life and Rest",
-      "url"      : "/If-you-cannot-do-great-things-do-small-things-in-a-great-way",
-      "date"     : "Nov 11, 2018",
-      "image": "/images/22.jpg"
+      "tags"     : "Literatura, Infantil, Cuento, and Maya Hernández",
+      "url"      : "/el-minuto-de-kat",
+      "date"     : "Sep 20, 2020",
+      "image": "/images/katalina-ballas/minuto-de-kat.webp"
+    } ,
+  
+    {
+      "title"    : "San Agustín a la orilla del mar",
+      "category" : "",
+      "tags"     : "Literatura and Martha Gil",
+      "url"      : "/san-agustin-a-la-orilla-del-mar",
+      "date"     : "Jun 20, 2020",
+      "image": "/images/martha-gil/san-agustin-orilla-del-mar.webp"
     } ,
   
     {
       "title"    : "Strive not to be a success, but rather to be of value",
       "category" : "",
-      "tags"     : "Travel and Dreams",
+      "tags"     : "Patrimonio Inmaterial and Sabiduría Abuelitos",
       "url"      : "/Strive-not-to-be-a-success-but-rather-to-be-of-value",
       "date"     : "Nov 10, 2018",
       "image": "/images/23.jpg"
@@ -97,15 +106,6 @@
       "url"      : "/the-way-i-see-it-every-life-is-a-pile-of-good-things",
       "date"     : "Oct 31, 2018",
       "image": "/images/40.jpg"
-    } ,
-  
-    {
-      "title"    : "It is never too late to be what you might have been",
-      "category" : "",
-      "tags"     : "Dreams and Desert",
-      "url"      : "/It-is-never-too-late-to-be-what-you-might-have-been",
-      "date"     : "Oct 29, 2018",
-      "image": "/images/35.jpg"
     } ,
   
     {
