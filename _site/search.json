@@ -10,12 +10,30 @@
     } ,
   
     {
+      "title"    : "Libro Estatuas del Pueblo Escultor",
+      "category" : "",
+      "tags"     : "Libro, Literatura, and David Dellenback",
+      "url"      : "/estatuas-del-pueblo-escultor",
+      "date"     : "Mar 9, 2021",
+      "image": "/images/david-dellenback/portada-estatuas-pueblo-escultor.webp"
+    } ,
+  
+    {
       "title"    : "La Primera Muerte de Don Eliecer",
       "category" : "",
       "tags"     : "Literatura, Cuento, and David Dellenback",
       "url"      : "/la-primera-muerte-de-don-eliecer",
       "date"     : "Mar 5, 2021",
       "image": "/images/david-dellenback/primera-muerte-don-eliecer.webp"
+    } ,
+  
+    {
+      "title"    : "Sabiduría de abuelos | Patrimonio Inmaterial",
+      "category" : "",
+      "tags"     : "Patrimonio Inmaterial and Sabiduría Abuelitos",
+      "url"      : "/abuela-rosarito",
+      "date"     : "Nov 10, 2020",
+      "image": "/images/sabiduria-de-abuelos/abuela-rosarito.webp"
     } ,
   
     {
@@ -34,24 +52,6 @@
       "url"      : "/san-agustin-a-la-orilla-del-mar",
       "date"     : "Jun 20, 2020",
       "image": "/images/martha-gil/san-agustin-orilla-del-mar.webp"
-    } ,
-  
-    {
-      "title"    : "Strive not to be a success, but rather to be of value",
-      "category" : "",
-      "tags"     : "Patrimonio Inmaterial and Sabiduría Abuelitos",
-      "url"      : "/Strive-not-to-be-a-success-but-rather-to-be-of-value",
-      "date"     : "Nov 10, 2018",
-      "image": "/images/23.jpg"
-    } ,
-  
-    {
-      "title"    : "A journey of a thousand leagues begins beneath one’s feet",
-      "category" : "",
-      "tags"     : "Travel and Life",
-      "url"      : "/A-journey-of-a-thousand-leagues-begins-beneath-one%C3%94%C3%87%C3%96s-feet",
-      "date"     : "Nov 9, 2018",
-      "image": "/images/24.jpg"
     } ,
   
     {

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Nosotros
+permalink: /nosotros/
 image: '/images/60.jpg'
 ---
 
