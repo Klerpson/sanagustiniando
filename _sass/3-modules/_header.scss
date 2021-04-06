@@ -3,6 +3,7 @@
   width: 100%;
   padding: 35px 0;
   transition: $global-transition;
+
   @media only screen and (max-width: $desktop) {
     padding: 25px 0;
   }
@@ -25,6 +26,7 @@
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 2px;
+
   &:hover {
     color: $dark;
   }
@@ -64,6 +66,7 @@
     color: $dark;
     transition: all .25s ease;
     cursor: pointer;
+
     &:hover {
       transform: rotate(90deg);
       color: $dark;
@@ -91,14 +94,16 @@
 
 .top-nav {
   margin-right: 25px;
+
   .nav__list {
     .nav__item {
       display: inline-block;
       margin-right: 25px;
+
       &:last-child {
         margin-right: 0;
       }
-  
+
       .nav__link {
         position: relative;
         padding: 0 3px;
@@ -106,12 +111,15 @@
         font-weight: 700;
         text-decoration: none;
         color: $gray;
+
         &:hover {
           color: $dark;
+
           &::after {
             transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);
           }
         }
+
         &::after {
           content: "";
           position: absolute;
@@ -141,20 +149,24 @@
       display: block;
       margin-bottom: 35px;
       text-align: center;
+
       &:last-child {
         margin-bottom: 0;
       }
+
       .nav__link {
         position: relative;
         padding: 0 3px;
         font-size: 23px;
         font-weight: 700;
         color: $dark;
+
         &:hover {
           &::after {
             transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);
           }
         }
+
         &::after {
           content: "";
           position: absolute;
@@ -170,6 +182,7 @@
           transition: all .2s ease;
         }
       }
+
       @media only screen and (max-width: $mobile) {
         margin-bottom: 20px;
       }
@@ -185,13 +198,15 @@
 
   .nav__icon-menu {
     display: none;
+
     @media only screen and (max-width: $desktop) {
       display: block;
     }
   }
-  
+
   .nav__icon {
     cursor: pointer;
+
     &:first-child {
       margin-right: 15px;
     }
@@ -209,15 +224,18 @@
   visibility: hidden;
   background-color: $white;
   transition: all 0.5s ease-in-out;
+
   &.is-open {
     opacity: 1;
     visibility: visible;
   }
-  @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+
+  @supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
     -webkit-backdrop-filter: saturate(180%) blur(10px);
     backdrop-filter: saturate(180%) blur(10px);
     background-color: rgba($white, .9);
   }
+
   @media only screen and (min-width: $desktop) {
     display: none;
   }
@@ -231,6 +249,7 @@
 
 .nav-grid__item {
   margin-bottom: 30px;
+
   @media only screen and (max-width: $tablet) {
     height: auto;
   }
@@ -244,6 +263,7 @@
   font-weight: 700;
   text-align: center;
   color: $text-color;
+
   &::after {
     content: "";
     position: absolute;
@@ -255,6 +275,7 @@
     height: 2px;
     background-color: $dark;
   }
+
   @media only screen and (max-width: $tablet) {
     margin-bottom: 30px;
   }

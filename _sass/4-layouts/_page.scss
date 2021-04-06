@@ -9,10 +9,12 @@
   line-height: 65px;
   font-weight: 800;
   text-align: center;
+
   @media only screen and (max-width: $tablet) {
     font-size: 48px;
     line-height: 50px;
   }
+
   @media only screen and (max-width: $mobile) {
     margin-bottom: 0;
     font-size: 33px;
@@ -25,7 +27,11 @@
   top: 0;
   width: 100%;
   height: 100%;
+  -o-object-fit: cover;
   object-fit: cover;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
   user-select: none;
 }
 
@@ -34,11 +40,11 @@
   padding-top: 50%;
   overflow: hidden;
   background-color: $gray-light;
-  
+
   @media only screen and (max-width: $desktop) {
     padding-top: 55%;
   }
-  
+
   @media only screen and (max-width: $tablet) {
     padding-top: 65%;
   }
@@ -46,6 +52,7 @@
 
 .page-head {
   margin: 40px 0;
+
   @media only screen and (max-width: $mobile) {
     margin: 25px 0;
   }

@@ -23,6 +23,7 @@
     line-height: 50px;
     color: $white;
     background-color: $dark;
+
     &:hover {
       color: $white;
       background-color: darken($brand-color, 5%);
