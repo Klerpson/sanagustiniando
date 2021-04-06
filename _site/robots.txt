@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://sanagustiniando.co/sitemap.xml
