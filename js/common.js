@@ -53,7 +53,7 @@ $(document).ready(function() {
   // Animation Load Page
   ======================= */
   setTimeout(function(){
-    $('body').addClass('is-in');
+    $('body').addClass("is-in");
   })
 
   // =====================
