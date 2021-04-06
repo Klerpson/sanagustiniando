@@ -10,10 +10,28 @@
     } ,
   
     {
+      "title"    : "Poesía La Mujer Perfecta",
+      "category" : "",
+      "tags"     : "Literatura, Poesía, and Agustín Andaquí",
+      "url"      : "/la-mujer-perfecta-copia",
+      "date"     : "Mar 29, 2021",
+      "image": "/images/arturo-mosquera/arturo-mosquera.webp"
+    } ,
+  
+    {
       "title"    : "Libro Estatuas del Pueblo Escultor",
       "category" : "",
       "tags"     : "Libro, Literatura, and David Dellenback",
       "url"      : "/estatuas-del-pueblo-escultor",
+      "date"     : "Mar 9, 2021",
+      "image": "/images/david-dellenback/portada-estatuas-pueblo-escultor.webp"
+    } ,
+  
+    {
+      "title"    : "Libro Estatuas del Pueblo Escultor",
+      "category" : "",
+      "tags"     : "Libro, Literatura, and David Dellenback",
+      "url"      : "/estatuas-del-pueblo-escultor-copia",
       "date"     : "Mar 9, 2021",
       "image": "/images/david-dellenback/portada-estatuas-pueblo-escultor.webp"
     } ,
@@ -28,10 +46,28 @@
     } ,
   
     {
+      "title"    : "La Primera Muerte de Don Eliecer",
+      "category" : "",
+      "tags"     : "Literatura, Cuento, and David Dellenback",
+      "url"      : "/la-primera-muerte-de-don-eliecer-copia",
+      "date"     : "Mar 5, 2021",
+      "image": "/images/david-dellenback/primera-muerte-don-eliecer.webp"
+    } ,
+  
+    {
       "title"    : "Sabiduría de abuelos | Patrimonio Inmaterial",
       "category" : "",
       "tags"     : "Patrimonio Inmaterial and Sabiduría Abuelitos",
       "url"      : "/abuela-rosarito",
+      "date"     : "Nov 10, 2020",
+      "image": "/images/sabiduria-de-abuelos/abuela-rosarito.webp"
+    } ,
+  
+    {
+      "title"    : "Sabiduría de abuelos | Patrimonio Inmaterial",
+      "category" : "",
+      "tags"     : "Patrimonio Inmaterial and Sabiduría Abuelitos",
+      "url"      : "/abuela-rosarito-copia",
       "date"     : "Nov 10, 2020",
       "image": "/images/sabiduria-de-abuelos/abuela-rosarito.webp"
     } ,
@@ -46,10 +82,28 @@
     } ,
   
     {
+      "title"    : "El Minuto de Kat",
+      "category" : "",
+      "tags"     : "Literatura, Infantil, Cuento, and Maya Hernández",
+      "url"      : "/el-minuto-de-kat-copia",
+      "date"     : "Sep 20, 2020",
+      "image": "/images/katalina-ballas/minuto-de-kat.webp"
+    } ,
+  
+    {
       "title"    : "San Agustín a la orilla del mar",
       "category" : "",
       "tags"     : "Literatura and Martha Gil",
       "url"      : "/san-agustin-a-la-orilla-del-mar",
+      "date"     : "Jun 20, 2020",
+      "image": "/images/martha-gil/san-agustin-orilla-del-mar.webp"
+    } ,
+  
+    {
+      "title"    : "San Agustín a la orilla del mar",
+      "category" : "",
+      "tags"     : "Literatura and Martha Gil",
+      "url"      : "/san-agustin-a-la-orilla-del-mar-copia",
       "date"     : "Jun 20, 2020",
       "image": "/images/martha-gil/san-agustin-orilla-del-mar.webp"
     } 
