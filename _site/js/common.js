@@ -52,9 +52,9 @@ $(document).ready(function() {
   /* =======================
   // Animation Load Page
   ======================= */
-  setTimeout(function(){
-    $("body").addClass("is-in");
-  });
+  // setTimeout(function(){
+  //   $("body").addClass("is-in");
+  // });
 
   // =====================
   // Featured Slider
@@ -120,16 +120,16 @@ $(document).ready(function() {
   /* =======================
   // Responsive Videos
   ======================= */
-  $(".post__content, .page__content").fitVids({
-    customSelector: ['iframe[src*="ted.com"]', 'iframe[src*="player.twitch.tv"]', 'iframe[src*="facebook.com"]']
-  });
+  // $(".post__content, .page__content").fitVids({
+  //   customSelector: ['iframe[src*="ted.com"]', 'iframe[src*="player.twitch.tv"]', 'iframe[src*="facebook.com"]']
+  // });
 
 
   /* =======================
   // Zoom Image
   ======================= */
-  $(".page img, .post img").attr("data-action", "zoom");
-  $(".page a img, .post a img").removeAttr("data-action", "zoom");
+  // $(".page img, .post img").attr("data-action", "zoom");
+  // $(".page a img, .post a img").removeAttr("data-action", "zoom");
 
 
   /* =======================
