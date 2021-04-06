@@ -53,8 +53,8 @@ $(document).ready(function() {
   // Animation Load Page
   ======================= */
   setTimeout(function(){
-    $('body').addClass('is-in')
-  },50);
+    $('body').addClass('is-in');
+  },50)
 
   // =====================
   // Featured Slider
