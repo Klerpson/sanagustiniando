@@ -5,6 +5,7 @@ date:   2021-03-09 15:01:35 +0300
 image:  '/images/david-dellenback/portada-estatuas-pueblo-escultor.webp'
 tags:   [Libro, Literatura, David Dellenback]
 author: David Dellenback
+featured: true
 ---
 El libro ‘Las Estatuas del Pueblo Escultor / The Statues of the Pueblo Escultor’, publicado en el 2012, de edición y distribución independiente, es un texto bilingüe que incluye más de 100 ilustraciones de la estatuaria del Macizo Colombiano, dibujadas por el autor. La segunda edición revisada y aumentada, del año 2019 y la versión electrónica del libro, está disponible así con su otro trabajo. Visite para completa información: [www.puebloescultor.org](http://puebloescultor.org/).
 
