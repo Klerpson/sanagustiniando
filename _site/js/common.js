@@ -54,7 +54,7 @@ $(document).ready(function() {
   ======================= */
   setTimeout(function(){
     $('body').addClass('is-in');
-  },150);
+  },50);
 
   // =====================
   // Featured Slider
