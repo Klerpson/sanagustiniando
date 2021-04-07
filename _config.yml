@@ -3,7 +3,7 @@
 title: SanAgustiniando
 # logo: '/images/logo.png'
 description: San Agustín Huila es un hermoso pueblo lleno de riquezas culturales, naturales, históricas, artísticas y humanas. ¡Descúbrelas!
-baseurl: "" # The subpath of your site, e.g. /blog
+baseurl: "/sanagustiniando" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 
