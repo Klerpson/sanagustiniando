@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function () {
   'use strict';
 
   var menuOpenIcon = $(".nav__icon-menu"),
@@ -52,9 +52,9 @@ $(document).ready(function() {
   /* =======================
   // Animation Load Page
   ======================= */
-  // setTimeout(function(){
-  //   $("body").addClass("is-in");
-  // });
+  setTimeout(function () {
+    $("body").addClass("is-in");
+  });
 
   // =====================
   // Featured Slider
@@ -94,17 +94,17 @@ $(document).ready(function() {
   // =====================
   var $load_posts_button = $('.load-more-posts');
 
-  $load_posts_button.click(function(e) {
+  $load_posts_button.click(function (e) {
     e.preventDefault();
     var loadMore = $('.load-more-section');
     var request_next_link = pagination_next_url.split('/page')[0] + '/page/' + pagination_next_page_number + '/';
 
     $.ajax({
       url: request_next_link,
-      beforeSend: function() {
+      beforeSend: function () {
         $load_posts_button.text('Loading...');
       }
-    }).done(function(data) {
+    }).done(function (data) {
       var posts = $('.grid__post', data);
       $('.grid').append(posts);
 
@@ -120,27 +120,29 @@ $(document).ready(function() {
   /* =======================
   // Responsive Videos
   ======================= */
-  // $(".post__content, .page__content").fitVids({
-  //   customSelector: ['iframe[src*="ted.com"]', 'iframe[src*="player.twitch.tv"]', 'iframe[src*="facebook.com"]']
-  // });
+  $(".post__content, .page__content").fitVids({
+    customSelector: ['iframe[src*="ted.com"]', 'iframe[src*="player.twitch.tv"]', 'iframe[src*="facebook.com"]']
+  });
 
 
   /* =======================
   // Zoom Image
   ======================= */
-  // $(".page img, .post img").attr("data-action", "zoom");
-  // $(".page a img, .post a img").removeAttr("data-action", "zoom");
+  $(".page img, .post img").attr("data-action", "zoom");
+  $(".page a img, .post a img").removeAttr("data-action", "zoom");
 
 
   /* =======================
   // Scroll Top Button
   ======================= */
-  $(".top").click(function() {
+  $(".top").click(function () {
     $("html, body")
       .stop()
-      .animate({ scrollTop: 0 }, "slow", "swing");
+      .animate({
+        scrollTop: 0
+      }, "slow", "swing");
   });
-  $(window).scroll(function() {
+  $(window).scroll(function () {
     if ($(this).scrollTop() > $(window).height()) {
       $(".top").addClass("is-active");
     } else {

@@ -4,7 +4,7 @@ title: SanAgustiniando
 # logo: '/images/logo.png'
 description: San Agustín Huila es un hermoso pueblo lleno de riquezas culturales, naturales, históricas, artísticas y humanas. ¡Descúbrelas!
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://klerpson.github.io/sanagustiniando/" # The base hostname & protocol for your site, e.g. http://example.com
+url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -27,7 +27,7 @@ social:
 
 #-------------------------------
 # Featured Slider
-slider: true # NOTE - By default, the slider is set to display featured posts. To add featured post to the slider, add the field, featured: true in the YAML front matter block. If you do not want to use the slider, leave the slider field empty.
+slider: # NOTE - By default, the slider is set to display featured posts. To add featured post to the slider, add the field, featured: true in the YAML front matter block. If you do not want to use the slider, leave the slider field empty.
 
 
 #-------------------------------
@@ -66,7 +66,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 8
+paginate: 6
 paginate_path: "/page/:num"
 
 # Pages Path

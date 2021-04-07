@@ -1,4 +1,6 @@
-*, *::after, *::before {
+*,
+*::after,
+*::before {
   box-sizing: border-box;
 }
 
@@ -12,17 +14,20 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
-    &::after {
-      visibility: hidden;
-      opacity: 0;
-      pointer-events: none;
-    }
 
-  input, textarea {
+  &::after {
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+
+  input,
+  textarea {
     border: 1px solid $gray-light;
     outline: none;
   }
-  
+
   @media only screen and (max-width: $mobile) {
     font-size: 18px;
   }
@@ -104,8 +109,9 @@ blockquote {
     text-transform: uppercase;
     font-style: normal;
     color: $text-color;
+
     &:before {
-      content: '\2014' '\00a0';
+      content: '\2014''\00a0';
     }
   }
 
@@ -125,17 +131,19 @@ pre {
   word-break: break-all;
 }
 
-code[class*=language-], pre[class*=language-] {
+code[class*=language-],
+pre[class*=language-] {
   white-space: pre-wrap;
   word-break: break-all;
   line-height: inherit;
 }
 
-img, 
+img,
 .zoom-img-wrap {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+
   &+em {
     display: block;
     margin-top: 10px;
@@ -151,8 +159,9 @@ a {
   text-decoration: none;
   color: $text-color;
   transition: $global-transition;
+
   &:hover {
-      color: $brand-color;
+    color: $brand-color;
   }
 }
 
@@ -193,6 +202,7 @@ table th {
 table tr {
   background-color: $gray-light;
   transition: all .3s ease;
+
   &:nth-child(even) {
     background-color: transparent;
   }
@@ -211,6 +221,7 @@ table tr:hover {
 
 .gallery-box {
   margin-bottom: 30px;
+
   em {
     display: block;
     margin: 10px 0 30px;
@@ -219,6 +230,7 @@ table tr:hover {
     font-weight: 600;
     text-transform: uppercase;
     text-align: center;
+
     a {
       text-decoration: underline;
       border-bottom: none;
@@ -232,6 +244,7 @@ table tr:hover {
   justify-content: center;
   align-content: center;
   grid-gap: 10px;
+
   img {
     width: 100%;
     height: auto;
