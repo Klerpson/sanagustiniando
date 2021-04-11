@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  La Primera Muerte de Don Eliecer
-date:   2021-03-05 15:01:35 +0300
+date:   2021-04-05 15:01:35 +0300
 image:  '/images/david-dellenback/primera-muerte-don-eliecer.webp'
 tags:   [Literatura, Cuento, David Dellenback]
 author: David Dellenback

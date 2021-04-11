@@ -1,10 +1,10 @@
 ---
 layout: page
-title: SanAgustiniando
+title: ¿Quiénes somos?
 permalink: /nosotros/
 image: '/images/portada-sanagustiniando.webp'
 ---
-El Libro de San Agustin www.librodesanagustin.co (página en desuso), un espacio virtual que durante años contribuyó a la difusión de la memoria histórica local, sigue ajustándose a la actualidad de nuestro territorio. **Ahora orgullosamente se presenta como www.sanagustiniando.co**, un sitio web con información local histórica y cultural, y una proyección de contenidos estructurados, analíticos e independientes.
+**El Libro de San Agustin** www.librodesanagustin.co (página en desuso), un espacio virtual que durante años contribuyó a la difusión de la memoria histórica local, sigue ajustándose a la actualidad de nuestro territorio. **Ahora orgullosamente se presenta como www.sanagustiniando.co**, un sitio web con información local histórica y cultural, y una proyección de contenidos estructurados, analíticos e independientes.
 
 Síguenos también en la redes sociales.
 
@@ -25,3 +25,5 @@ www.sanagustiniando.co es un portal digital que impulsa visiones del Macizo Colo
 ## Visión
 
 www.sanagustiniando.co será un portal digital donde se visibiliza, transforma y crea una narrativa cultural y social de San Agustín, Isnos y el Macizo Colombiano.
+
+* *Diseño de portada por [Manuela Yaya](https://www.facebook.com/manuela.yaya )*

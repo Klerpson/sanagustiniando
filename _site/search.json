@@ -1,6 +1,51 @@
 [
   
     {
+      "title"    : "Se publicó en San Agustín Huila la primera Guía de Aves Locales",
+      "category" : "",
+      "tags"     : "Biblioteca, Cultura, and Literatura",
+      "url"      : "/sanagustiniando/nueva-guia-aves-san-agustin-huila",
+      "date"     : "Apr 8, 2021",
+      "image": "/images/novedades-literarias/nueva-guia-aves/avistamiento-aves.webp"
+    } ,
+  
+    {
+      "title"    : "Retrato de un artista emergente",
+      "category" : "",
+      "tags"     : "Reseña and Artistas",
+      "url"      : "/sanagustiniando/retrato-artista-emergente-duvan-estrada",
+      "date"     : "Apr 7, 2021",
+      "image": "/images/artista-emergente/duvan-estrada.webp"
+    } ,
+  
+    {
+      "title"    : "Serie Radial Chimimanta. &quot;El libro digital de San Agustín&quot;",
+      "category" : "",
+      "tags"     : "Radio and Chimimanta",
+      "url"      : "/sanagustiniando/programa-radial-chimimanta",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/serie-radial-chimimanta/una-sociedad-nueva.webp"
+    } ,
+  
+    {
+      "title"    : "La Primera Muerte de Don Eliecer",
+      "category" : "",
+      "tags"     : "Literatura, Cuento, and David Dellenback",
+      "url"      : "/sanagustiniando/la-primera-muerte-de-don-eliecer",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/david-dellenback/primera-muerte-don-eliecer.webp"
+    } ,
+  
+    {
+      "title"    : "Serie Radial Chimimanta. Programa 001",
+      "category" : "",
+      "tags"     : "Radio and Chimimanta",
+      "url"      : "/sanagustiniando/chimimanta-programa-1",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/serie-radial-chimimanta/una-sociedad-nueva.webp"
+    } ,
+  
+    {
       "title"    : "Poesía La Mujer Perfecta",
       "category" : "",
       "tags"     : "Literatura, Poesía, and Agustín Andaquí",
@@ -12,19 +57,10 @@
     {
       "title"    : "Libro Estatuas del Pueblo Escultor",
       "category" : "",
-      "tags"     : "Libro, Literatura, and David Dellenback",
+      "tags"     : "Biblioteca, Literatura, and David Dellenback",
       "url"      : "/sanagustiniando/estatuas-del-pueblo-escultor",
       "date"     : "Mar 9, 2021",
       "image": "/images/david-dellenback/portada-estatuas-pueblo-escultor.webp"
-    } ,
-  
-    {
-      "title"    : "La Primera Muerte de Don Eliecer",
-      "category" : "",
-      "tags"     : "Literatura, Cuento, and David Dellenback",
-      "url"      : "/sanagustiniando/la-primera-muerte-de-don-eliecer",
-      "date"     : "Mar 5, 2021",
-      "image": "/images/david-dellenback/primera-muerte-don-eliecer.webp"
     } ,
   
     {

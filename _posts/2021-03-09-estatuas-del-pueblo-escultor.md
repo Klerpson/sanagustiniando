@@ -3,7 +3,7 @@ layout: post
 title:  Libro Estatuas del Pueblo Escultor
 date:   2021-03-09 15:01:35 +0300
 image:  '/images/david-dellenback/portada-estatuas-pueblo-escultor.webp'
-tags:   [Libro, Literatura, David Dellenback]
+tags:   [Biblioteca, Literatura, David Dellenback]
 author: David Dellenback
 featured: true
 ---

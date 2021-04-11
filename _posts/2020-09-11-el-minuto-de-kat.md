@@ -4,7 +4,7 @@ title:  El Minuto de Kat
 date:   2020-09-20 15:01:35 +0300
 image:  '/images/katalina-ballas/minuto-de-kat.webp'
 tags:   [Literatura, Infantil, Cuento, Maya Hernández]
-author: Katalina Ballas
+author: Maya Hernández
 ---
 Maya es una escritora local de 12 años, reside con sus padres en el campo en San Agustín, es **co-creadora de la primera guía de Aves en el Pueblo Escultor** y ha participado exitosamente en concursos de escritura a nivel local y nacional. En este cuento, Maya **nos pasea por el mundo de los sueños de Katalina Ballas** en una historia muy bien hilada que nos lleva a debatir entre diversas realidades.
 
