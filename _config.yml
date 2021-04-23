@@ -82,7 +82,7 @@ include:
 # Tags
 tag_page_dir:         categoria
 tag_page_layout:      categoria
-tag_permalink_style:  /:title
+# tag_permalink_style:  /:title
 
 sass:
   sass_dir: _sass
