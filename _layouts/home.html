@@ -6,46 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Sanagustianiando.co</title>
-    
-    
+    <title>{{ page.title | default: site.title }}</title>
+    {% if page.excerpt %}
+    <meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
+    {% if site.author %}
+    <meta name="author" content="{{ site.author }}" />{% endif %}
 
     <link rel="stylesheet" type="text/css" href="css/style.css" />
 
 </head>
 
 <body>
-    <section class="conteo">
-  <h1>Pronto nuestra nueva página web</h1>
-  <ul>
-    <li>Patrimonio</li>
-    <li>Arte</li>
-    <li>Personajes</li>
-    <li>Naturaleza</li>
-  </ul>
-  <p class="tiempo">
-    <span id="days"></span> días <br> <span id="hours"></span> : <span id="minutes"></span> : <span
-      id="seconds"></span>s.
-  </p>
-</section>
-<footer>
-  <h2>sanagustiniando</h2>
-  <img src="/logo.png" alt="logo">
-  <h3>El portal de la comunicación y la cultura</h3>
-  <p>Te invitamos a la chocolatada de la inauguración</p>
-  <h2>Mayo 01 a las 3:00 p.m.</h2>
-  <p>En el centro cultural <strong>"El Faro"</strong></p>
-  <p>¡Puedes hacer un aporte voluntario!</p>
-  <ul>
-    <li>📌 Contextualización y búsqueda de cómplices</li>
-    <li>📌 Recepción de contenidos y donaciones</li>
-    <li>📌 Difusión cultural de nuestro Patrimonio</li>
-  </ul>
-
-  <h3>¡Juntos tejemos comunicación!</h3>
-
-  <p>¡Te esperamos!</p>
-</footer>
+    {{content}}
     <script>
         document.addEventListener('DOMContentLoaded', () => {
 
