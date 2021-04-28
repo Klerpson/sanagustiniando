@@ -129,4 +129,6 @@ footer ul li{
     color: #1b0b00;
     font-weight: bold;
     margin: 1.7rem auto;
+    text-decoration: none;
+    box-shadow: 5px 0px 7px rgba(2, 2, 2, 0.7);
 }
