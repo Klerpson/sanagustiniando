@@ -84,11 +84,13 @@ footer {
 footer h2 {
     text-align: center;
     text-transform: uppercase;
+    margin: 1.5rem 0;
 }
 
 footer h3 {
     font-size: 1.5rem;
     text-transform: capitalize;
+    margin: 1.5rem 0;
 }
 
 footer img {
@@ -99,7 +101,7 @@ footer img {
 footer p {
     font-size: 1.2rem;
     line-height: 1.2rem;
-    margin: 1.2rem 0;
+    margin: 1.5rem 0;
 }
 
 footer ul li {
@@ -126,4 +128,5 @@ footer ul li{
     background: white;
     color: #1b0b00;
     font-weight: bold;
+    margin: 1.7rem auto;
 }
