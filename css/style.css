@@ -121,3 +121,9 @@ footer ul li{
         padding: 3rem 2rem;
     }
 }
+
+.boton{
+    background: white;
+    color: #1b0b00;
+    font-weight: bold;
+}
