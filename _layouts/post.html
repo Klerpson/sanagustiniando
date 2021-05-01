@@ -23,7 +23,7 @@ layout: default
             <span>Por</span>
             <a href="{{site.baseurl}}/nosotros/" class="post__author-image" style="background-image: url({{site.baseurl}}{{page.avatar}})" aria-label="{{page.author}}'s Picture"></a> <a href="{{site.baseurl}}/nosotros/" class="post__author-link">{{page.author}}</a>
           </div>
-          <h1 class="post-title" style="text-transform: capitalize;">{{ page.title | escape }}</h1>
+          <h1 class="post-title">{{ page.title | escape }}</h1>
           <div class="post__meta">
             {% if page.tags.size >= 1 %}
             <div class="post-tags">
