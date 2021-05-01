@@ -1,0 +1,26 @@
+---
+layout: default
+image: /david-dellenback/portada-estatuas-pueblo-escultor.webp
+tags: [Personajes]
+permalink: /tag/personajes
+---
+{% assign slider_tag = page.tag %}
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="archive-box">
+        <div class="tag-slider">
+          <div class="tag-slider__box">
+            <div class="tag-slider__item" style="background-image: url({{site.baseurl}}/images{{page.image}}); background-size: cover; background-repeat: no-repeat; background-position: center top;"></div>
+          </div>
+        </div>
+        <div class="archive-text">
+          <span class="archive-meta">Todo sobre la categoría</span>
+          <h1 class="archive-title">{{ page.tags }}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include related-posts.html %}

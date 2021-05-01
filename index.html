@@ -1,33 +1,24 @@
 ---
-layout: home
+layout: default
 ---
-<section class="conteo">
-  <h1>Pronto nuestra nueva página web</h1>
-  <ul>
-    <li>Patrimonio</li>
-    <li>Arte</li>
-    <li>Personajes</li>
-    <li>Naturaleza</li>
-  </ul>
-  <p class="tiempo">
-    <span id="days"></span> días <br> <span id="hours"></span> : <span id="minutes"></span> : <span
-      id="seconds"></span>s.
-  </p>
-  <a href="https://fb.me/e/1vGlCdSh3" class="boton">Asistir al evento online</a>
-</section>
-<footer>
-  <h2>sanagustiniando</h2>
-  <img src="{{site.baseurl}}/logo.png" alt="logo">
-  <h3>El portal de la comunicación y la cultura</h3>
-  <h2>Mayo 01 a las 3:00 p.m.</h2>
-  <ul>
-    <li>📌 Contextualización y búsqueda de cómplices</li>
-    <li>📌 Recepción de contenidos y donaciones</li>
-    <li>📌 Difusión cultural de nuestro Patrimonio</li>
-  </ul>
-  <a href="https://fb.me/e/1vGlCdSh3" class="boton">Asistir al evento online</a>
+{% include hero.html %}
 
-  <h3>¡Juntos tejemos comunicación!</h3>
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="container__inner">
+        <div class="contaniner__inner-box">
+          <div class="row grid">
+            {% if site.posts.size > 0 %}
+              {% for post in paginator.posts %}
+                {% include article-content.html %}
+              {% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-  <p>¡Te esperamos!</p>
-</footer>
+{% include pagination.html %}

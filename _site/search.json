@@ -1,0 +1,129 @@
+[
+  
+    {
+      "title"    : "Manuela Yaya - Abuelos",
+      "category" : "",
+      "tags"     : "Literatura, Personajes, and Sabiduría Abuelitos",
+      "url"      : "/manuela-yaya-abuelos",
+      "date"     : "Apr 30, 2021",
+      "image": "/images/manuela-yaya-abuelos/abuelos4.webp"
+    } ,
+  
+    {
+      "title"    : "Conservación y Frontera",
+      "category" : "",
+      "tags"     : "Conservación, Ecología, and Patrimonio Natural",
+      "url"      : "/conservacion-y-frontera",
+      "date"     : "Apr 27, 2021",
+      "image": "/images/ecologia/conservacion-frontera.webp"
+    } ,
+  
+    {
+      "title"    : "Se publicó en San Agustín Huila la primera Guía de Aves Locales",
+      "category" : "",
+      "tags"     : "Biblioteca, Cultura, and Literatura",
+      "url"      : "/nueva-guia-aves-san-agustin-huila",
+      "date"     : "Apr 8, 2021",
+      "image": "/images/novedades-literarias/nueva-guia-aves/avistamiento-aves.webp"
+    } ,
+  
+    {
+      "title"    : "Retrato de un artista emergente",
+      "category" : "",
+      "tags"     : "Reseña and Artistas",
+      "url"      : "/retrato-artista-emergente-duvan-estrada",
+      "date"     : "Apr 7, 2021",
+      "image": "/images/artista-emergente/duvan-estrada.webp"
+    } ,
+  
+    {
+      "title"    : "Serie Radial Chimimanta. &quot;El libro digital de San Agustín&quot;",
+      "category" : "",
+      "tags"     : "Radio and Chimimanta",
+      "url"      : "/programa-radial-chimimanta",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/serie-radial-chimimanta/una-sociedad-nueva.webp"
+    } ,
+  
+    {
+      "title"    : "La Primera Muerte de Don Eliecer",
+      "category" : "",
+      "tags"     : "Literatura and Cuento",
+      "url"      : "/la-primera-muerte-de-don-eliecer",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/david-dellenback/primera-muerte-don-eliecer.webp"
+    } ,
+  
+    {
+      "title"    : "Serie Radial Chimimanta. Programa 003",
+      "category" : "",
+      "tags"     : "Radio and Chimimanta",
+      "url"      : "/chimimanta-programa-03",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/serie-radial-chimimanta/una-sociedad-nueva.webp"
+    } ,
+  
+    {
+      "title"    : "Serie Radial Chimimanta. Programa 002",
+      "category" : "",
+      "tags"     : "Radio and Chimimanta",
+      "url"      : "/chimimanta-programa-02",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/serie-radial-chimimanta/huellas-en-el-barro.webp"
+    } ,
+  
+    {
+      "title"    : "Serie Radial Chimimanta. Programa 001",
+      "category" : "",
+      "tags"     : "Radio and Chimimanta",
+      "url"      : "/chimimanta-programa-01",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/serie-radial-chimimanta/un-valle-donde-nace-vida.webp"
+    } ,
+  
+    {
+      "title"    : "Poesía La Mujer Perfecta",
+      "category" : "",
+      "tags"     : "Literatura and Poesía",
+      "url"      : "/la-mujer-perfecta",
+      "date"     : "Mar 29, 2021",
+      "image": "/images/arturo-mosquera/arturo-mosquera.webp"
+    } ,
+  
+    {
+      "title"    : "Libro Estatuas del Pueblo Escultor",
+      "category" : "",
+      "tags"     : "Biblioteca and Literatura",
+      "url"      : "/estatuas-del-pueblo-escultor",
+      "date"     : "Mar 9, 2021",
+      "image": "/images/david-dellenback/portada-estatuas-pueblo-escultor.webp"
+    } ,
+  
+    {
+      "title"    : "Sabiduría de abuelos | Patrimonio Inmaterial",
+      "category" : "",
+      "tags"     : "Patrimonio Inmaterial and Sabiduría Abuelitos",
+      "url"      : "/abuela-rosarito",
+      "date"     : "Nov 10, 2020",
+      "image": "/images/sabiduria-de-abuelos/abuela-rosarito.webp"
+    } ,
+  
+    {
+      "title"    : "El Minuto de Kat",
+      "category" : "",
+      "tags"     : "Literatura, Infantil, and Cuento",
+      "url"      : "/el-minuto-de-kat",
+      "date"     : "Sep 20, 2020",
+      "image": "/images/katalina-ballas/minuto-de-kat.webp"
+    } ,
+  
+    {
+      "title"    : "San Agustín a la orilla del mar",
+      "category" : "",
+      "tags"     : "Literatura",
+      "url"      : "/san-agustin-a-la-orilla-del-mar",
+      "date"     : "Jun 20, 2020",
+      "image": "/images/martha-gil/san-agustin-orilla-del-mar.webp"
+    } 
+  
+]
