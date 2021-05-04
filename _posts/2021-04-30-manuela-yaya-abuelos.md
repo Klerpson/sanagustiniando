@@ -10,9 +10,10 @@ author: Manuela Yaya
 
 ## Abuelos
 
-![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/manuela-yaya-abuelos/abuelos1.webp)
-![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/manuela-yaya-abuelos/abuelos2.webp)
-![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/manuela-yaya-abuelos/abuelos3.webp)
-![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/manuela-yaya-abuelos/abuelos4.webp)
+![Muestras artísticas de relatos de abuelitos$]({{site.baseurl}}/images/manuela-yaya-abuelos/abuelos1.webp)
+![Muestras artísticas de relatos de abuelitos$]({{site.baseurl}}/images/manuela-yaya-abuelos/abuelos2.webp)
+![Muestras artísticas de relatos de abuelitos$]({{site.baseurl}}/images/manuela-yaya-abuelos/abuelos3.webp)
+![Muestras artísticas de relatos de abuelitos$]({{site.baseurl}}/images/manuela-yaya-abuelos/abuelos4.webp)
+![Muestras artísticas de relatos de abuelitos$]({{site.baseurl}}/images/manuela-yaya-abuelos/abuelos5.webp)
 
 <cite>Por Manuela Yaya</cite>
