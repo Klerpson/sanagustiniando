@@ -10,6 +10,15 @@
     } ,
   
     {
+      "title"    : "Almanaque Agroecológico de San Agustín",
+      "category" : "",
+      "tags"     : "Ecología, Biología, Personajes, and Almanaque",
+      "url"      : "/almanaque-agroecologico-san-agustin",
+      "date"     : "Apr 28, 2021",
+      "image": "/images/almanaque/almanaque.webp"
+    } ,
+  
+    {
       "title"    : "Conservación y Frontera",
       "category" : "",
       "tags"     : "Conservación, Ecología, and Patrimonio Natural",
