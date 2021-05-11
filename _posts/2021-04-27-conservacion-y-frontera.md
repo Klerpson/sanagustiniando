@@ -8,11 +8,11 @@ author: María Daniela Giraldo Zapata
 ---
 ## Conflictos ambientales entre la frontera agrícola y la conservación: actores y visiones en San Agustín
 
-Capítulo perteneciente a la serie Geografías de San Agustín, realizado por  la estudiante  María Daniela Giraldo Zapata de la Universidad Nacional  en el año 2015, bajo la mentoría del profesor Jeffer Chaparro Mendivelso.
+Capitulo perteneciente a la serie Geografías de San Agustín, realizado por la estudiante del Programa de Geografía María Daniela Giraldo Zapata de la Facultad de Ciencias Humanas de la Universidad Nacional de Colombia, Sede Bogotá, trabajo realizado en San Agustín, Huila en el año 2015, bajo la mentoría del profesor Jeffer Chaparro Mendivelso, como parte del Trabajo de Grado del semestre.
 
-Este trabajo de investigación arroja un importante diagnóstico sobre el estado de la conservación natural, la producción agrícola y los conflictos ambientales en San Agustín, obedeciendo estos últimos a patrones de carácter histórico como a nuevas dinámicas que están emergiendo en el territorio.
+Esta investigación arroja un importante diagnóstico sobre el estado de la conservación natural, la producción agrícola y los conflictos ambientales en San Agustín, obedeciendo estos últimos tanto a patrones de carácter histórico como a nuevas dinámicas que están emergiendo en el territorio. Se trabaja mediante el contraste de visiones sobre la conservación y el desarrollo económico, así como del papel de diversos actores y organizaciones locales.
 
-A través del contraste de visiones sobre la conservación y el desarrollo económico,  así como el papel de diversos  actores y organizaciones locales. Se abre la discusión sobre temas como mecanismos de participación, gobernanza comunitaria y  planificación territorial,  en un Municipio con una diversidad de ecosistemas y alto valor patrimonial, lo que lo posiciona estratégicamente a nivel nacional como global en un enclave ambiental y cultural.
+Se abre la discusión sobre temas como mecanismos de participación, gobernanza comunitaria y planificación territorial, en un municipio con una diversidad de ecosistemas y alto valor patrimonial, lo que lo posiciona estratégicamente a nivel nacional como global, como un hito ambiental y cultural.
 
 <cite>Por María Daniela Giraldo Zapata</cite>
 
