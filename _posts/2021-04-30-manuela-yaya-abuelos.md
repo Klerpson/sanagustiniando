@@ -2,7 +2,7 @@
 layout: post
 title:  Manuela Yaya - Abuelos
 date:   2021-04-30
-image:  '/images/manuela-yaya-abuelos/abuelos4.webp'
+image:  '/images/manuela-yaya-abuelos/abuelos1.webp'
 tags:   [Literatura, Personajes, Sabiduría Abuelitos]
 author: Manuela Yaya
 ---

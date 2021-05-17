@@ -32,4 +32,4 @@ Gracias a su aporte la cultura de San Agustín tiene abierta esta ventana. Para 
 
 <a href="https://paypal.me/sanagustiniando?locale.x=es_XC" class="subscribe-button button button--primary">Contribuir al proyecto</a>
 
-* *Diseño de portada por [Manuela Yaya](https://www.facebook.com/manuela.yaya )*
+*Acuarela de la portada realizada por [Manuela Yaya](https://www.facebook.com/manuela.yaya), artista plástica residente en San Agustín Huila. Manuela ha dedicado parte de sus esfuerzos artísticos aquí en la región, a captar mediante bocetos y dibujos de acuarelas, aguadas o a lápiz expresiones y vivencias de mujeres campesinas y ancianas del territorio, para completar un trabajo acerca de la mujer campesina. De manera desinteresada y de total apoyo a Sanagustiniando. Manuela se vincula con su arte a este proceso cultural que continúa con nuevos aportes y esfuerzos.*
