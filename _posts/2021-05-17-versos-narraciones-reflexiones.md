@@ -1,0 +1,29 @@
+---
+layout: post
+title:  Emilson Toro - Versos, narraciones y reflexiones
+date:   2021-05-17
+image:  '/images/emilson-toro/foto-san-agustin-huila.webp'
+tags:   [Literatura]
+author: Emilson Eduardo Toro Ortíz
+---
+EMILSON EDUARDO TORO ORTIZ, es un maestro en educación, residente y nacido en San Agustín. Entre sus grandes pasiones esta la literatura y la escritura. Ha escrito su primer libro titulado ´Versos, Narraciones y Reflexiones el cual, según él mismo *“recoge situaciones e ideas desde muchos años atrás, ideas a las que quise darles forma”*. He aquí una muestra de sus escritos:
+
+## ETERNIZADO EN LA PIEDRA
+
+En un amanecer donde el cielo aun dibuja infinitos puntos brillantes, he salido al patio de mi casa. Abajo se escucha el paso sonoro de la quebrada que me da tranquilidad. Me he sentado sobre una silla a pensar en lo verde de las montañas, en el sonido del cafetal y en la sonrisa de la gente. ¿Qué tiene San Agustín que lo hace tan especial?... ¡A ya sé!, son sus esculturas enigmáticas, sus bosques verdes y frondosos, su gente amable y sencilla, su fuente del lavapatas que es un centro ceremonial. Nuestros antepasados, artistas soñadores que dibujaron sus sueños sobre rocas de volcán. Nuestros antepasados pienso yo, que destruyeron el amor para renacer en él, que soñaron en la muerte para revivir en ella, que mezclaron muerte y vida, que desdibujaron el cielo para dejarlo eternizado en la piedra, que se convirtieron en serpientes, búhos o jaguares, para compenetrarse con ellos. De pronto el sol ya deja ver sus primeros rayos y mi madre deja oír su voz, es mejor que regrese a la cama.
+
+![Dibujo de la fuente de lavapatas del parque arqueológico de San Agustín]({{site.baseurl}}/images/emilson-toro/dibujo-fuente-lavapatas.webp)
+
+## SATURDINO ALEGRIA
+
+Le llamaban Saturdino Alegría, era el loco del pueblo (eso dice la gente, cuando de vez en cuando se acuerdan de él). En pleno aguacero le gustaba salir a la calle en bola y disfrutaba de la lluvia y cantaba y bailaba y soñaba, era inmensamente feliz. Le gustaba comer flores; hablaba con las cucarachas, con las piedras, con los pajaritos, con los ratones, con los perros y con todo lo que estuviese a su alrededor; a todos los escuchaba con atención, observando en cada uno de ellos la magnificencia y sabiduría de la naturaleza (y de Dios).
+
+Cuando deambulaba por las calles le gustaba gritar: “¡Upa culo se emborrachó la policía! ¡Que piche el diablo pa verle el culo!”. La gente se asombraba cuando gritaba, pero en fin, ya estaba acostumbrada.
+
+Eran las tres de la tarde del miércoles, un día en que todo parecía ser normal, es decir, la misma gente deambulando por las mismas calles y el astro con sus acostumbrados rayos de aspecto somnoliento. Saturdino caminaba feliz por los senderos del poblado. El sol empezó a ser cubierto por una nube inmensa y todo se cobijó de la más absoluta oscuridad. Del cielo bajaron unas gotas de luz y éstas se posaron sobre cada uno de los habitantes del pueblo. Sobre Saturdino también cayó una. La nube empezó a despejar el sol y de nuevo fue la claridad la que imperó. Saturdino experimentó algo que nunca antes había sentido, como si le hubiesen realizado un lavado completo (incluyendo su memoria).
+
+Al día siguiente notó cambios en el comportamiento de los habitantes. Ya no era él quien salía en pleno aguacero en bola, sino las demás personas, así como también eran los otros quienes hablaban con las piedras, con los ratones, con los pajaritos y comían flores. Todo le pareció tan extraño a Saturdino, pensó: “todos se han vuelto locos, haciendo semejantes estupideces”.
+
+Con el transcurrir de los días Saturdino observó que todos los moradores del pueblo deambulaban felices de la vida, gritaban, cantaban, soñaban y reían; todos eran plenamente felices menos él. Recordó cómo era su vida antes de que el cielo se oscureciera. Sintió que la nostalgia lo invadía y que su vida era solo tristeza. Empezaron a bajar lágrimas de sus mejillas. Decidió empacar sus pocas pertenencias y partir para otro pueblo lejano, un pueblo donde nadie lo conociera; y esperar entonces, si alguna tarde de algún miércoles, el cielo volvía a oscurecerse y las cosas volvían a ser como antes.
+
+<cite>Por {{page.author}}</cite>
