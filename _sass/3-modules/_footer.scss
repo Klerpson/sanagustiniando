@@ -3,17 +3,21 @@
   padding: 80px 0;
   margin-top: 20px;
   background-color: $gray-light;
+
   .row .col {
     flex-grow: 1;
+
     &:last-child {
       &>.widget {
         padding-right: 0;
       }
     }
   }
+
   @media only screen and (max-width: $tablet) {
     padding: 80px 0 0;
   }
+
   @media only screen and (max-width: $mobile) {
     padding: 50px 0 0;
   }
@@ -32,6 +36,7 @@
   line-height: 1;
   font-weight: 800;
   color: $dark;
+
   @media only screen and (max-width: $desktop) {
     font-size: 24px;
   }
@@ -44,9 +49,10 @@
   line-height: 33px;
   font-weight: 800;
   color: $dark;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   letter-spacing: 1px;
   transition: none;
+
   &:hover {
     a {
       color: $dark;
@@ -68,9 +74,11 @@
   display: flex;
   padding-right: 15px;
   margin-bottom: 15px;
+
   &:last-child {
     margin-bottom: 0;
   }
+
   @media only screen and (max-width: $desktop) {
     padding-right: 0;
   }
@@ -91,6 +99,7 @@
   background-position: center;
   background-repeat: no-repeat;
   transition: .3s filter ease;
+
   &:hover {
     filter: saturate(1.5);
   }
@@ -101,8 +110,10 @@
   font-size: 21px;
   line-height: 24px;
   font-weight: 700;
+
   a {
     color: $dark;
+
     &:hover {
       box-shadow: 0 -1px 0 0 $brand-color inset, 0 -2px 0 0 $brand-color inset;
     }
@@ -125,7 +136,7 @@
   font-size: 18px;
   line-height: 26px;
   color: $gray;
-  
+
   @media only screen and (max-width: $tablet) {
     max-width: 100%;
   }
@@ -152,9 +163,11 @@
     box-sizing: border-box;
     transition: border-color .2s ease-in-out;
     cursor: text;
+
     &::placeholder {
-    font-size: 17px;
+      font-size: 17px;
     }
+
     &:focus {
       color: $dark;
       border-color: $brand-color;
@@ -165,6 +178,7 @@
     margin: 0 0 0 10px;
     border-radius: 3px;
   }
+
   @media only screen and (max-width: $mobile) {
     flex-direction: column;
 
