@@ -38,7 +38,7 @@ diferencia de otras narrativas, ya que no repetimos la historia
 hegemónica de una cultura agustiniana y megalítica, aislada de su  
 gente.
 
-![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/almanaque/almanaque1.webp)
+![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/almanaque/almanaque1.webp "Almanaque San Agustín Huila")
 
 En estas hojas de otros días, encontraran el calendario cívico de San  
 Agustín con sus fechas más representativas, los lunes de mercado, la  

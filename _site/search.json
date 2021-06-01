@@ -1,6 +1,24 @@
 [
   
     {
+      "title"    : "Maira, la niña Om",
+      "category" : "",
+      "tags"     : "Literatura, Personajes, and Cuento",
+      "url"      : "/maira-nina-om",
+      "date"     : "Jun 1, 2021",
+      "image": "/images/maira/milciades-principal.webp"
+    } ,
+  
+    {
+      "title"    : "San Agustín, la riqueza de su pasado y los desafíos presentes y futuros",
+      "category" : "",
+      "tags"     : "Literatura, Historia, and Ensayo",
+      "url"      : "/san-agustin-desafio-pasado-riqueza-presente-futuro",
+      "date"     : "May 30, 2021",
+      "image": "/images/antonio-valdes/ensayo-valdes-1.webp"
+    } ,
+  
+    {
       "title"    : "Emilson Toro - Versos, narraciones y reflexiones",
       "category" : "",
       "tags"     : "Literatura",
