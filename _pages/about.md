@@ -26,6 +26,51 @@ www.sanagustiniando.co es un portal digital que impulsa visiones del Macizo Colo
 
 www.sanagustiniando.co será un portal digital donde se visibiliza, transforma y crea una narrativa cultural y social de San Agustín, Isnos y el Macizo Colombiano.
 
+## Agradecimientos
+
+Sanagustiniando existe gracias al apoyo de personas como usted. Nuestro cordial agradecimiento a:
+
+### Diseñadores:
+
+* Julian Franco
+* Manuela Yaya
+* Laura Vargas
+* Claudia Ospina
+
+### Donaciones económicas de individuos o instituciones como
+
+* Ambrosía El Faro Restaurante
+* Finca La Magdalena
+* Casa Jaguar
+* Hotel La Antigua
+* Fundación Viracocha
+
+### Aporte de Contenidos:
+
+* Colectivo Chimimanta
+* Lina María Cortes
+* David Dellenback
+* Martha Gil
+* Duvan Estrada
+* Belisa Mosquera — Memorias de Arturo Mosquera (f)
+* Maya Hernandez
+* Carlota Corredor — Memorias de Rosario Corredor (f)
+* Ricardo Báez
+* Ingrid Gómez
+* Andrés Robles
+* Daniela Giraldo
+* Jeffer Chaparro
+* Lina Osorio
+
+### Comité Editorial:
+
+* Tseden Parra
+* Carlos Gómez
+* Martha Gil
+* Ricardo Báez
+* Lina Osorio
+* Ingrid Gómez
+
 ## ¿Desea apoyar?
 
 Gracias a su aporte la cultura de San Agustín tiene abierta esta ventana. Para Sanagustiniando su aporte es fundamental. Queremos crear y mantener contenidos relevantes con carácter idóneo y profesional.  Y también, usted puede aportarnos con ideas, proyectos o contenidos culturales. ¡Únete!
