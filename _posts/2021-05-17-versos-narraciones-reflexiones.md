@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  Emilson Toro - Versos, narraciones y reflexiones
+description: EMILSON EDUARDO TORO ORTIZ, es un maestro en educación, residente y nacido en San Agustín. Entre sus grandes pasiones esta la literatura y la escritura. Ha escrito su primer libro titulado ´Versos, Narraciones y Reflexiones el cual, según él mismo “recoge situaciones e ideas desde muchos años atrás, ideas a las que quise darles forma”.
 date:   2021-05-17
 image:  '/images/emilson-toro/foto-san-agustin-huila.webp'
 tags:   [Literatura]
 author: Emilson Eduardo Toro Ortíz
 ---
-EMILSON EDUARDO TORO ORTIZ, es un maestro en educación, residente y nacido en San Agustín. Entre sus grandes pasiones esta la literatura y la escritura. Ha escrito su primer libro titulado ´Versos, Narraciones y Reflexiones el cual, según él mismo *“recoge situaciones e ideas desde muchos años atrás, ideas a las que quise darles forma”*. He aquí una muestra de sus escritos:
+*{{page.description}} He aquí una muestra de sus escritos:*
 
 ## ETERNIZADO EN LA PIEDRA
 

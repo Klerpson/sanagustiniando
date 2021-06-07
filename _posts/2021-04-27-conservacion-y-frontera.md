@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Conservación y Frontera
+description: Capitulo perteneciente a la serie Geografías de San Agustín, realizado por la estudiante del Programa de Geografía María Daniela Giraldo Zapata de la Facultad de Ciencias Humanas de la Universidad Nacional de Colombia
 date:   2021-04-27
 image:  '/images/ecologia/conservacion-frontera.webp'
 tags:   [Conservación, Ecología, Patrimonio Natural]

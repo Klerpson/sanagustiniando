@@ -1,16 +1,17 @@
 ---
 layout: post
 title:  San Agustín, la riqueza de su pasado y los desafíos presentes y futuros
+description: Este ensayo escrito por el antropólogo y profesor Antonio Valdés para la I Bienal Internacional de Educación para la Paz, nos ofrece una retrospectiva sobre el milenario pasado de San Agustín y nos invita a reflexionar sobre el presente y futuro de nuestro Municipio.
 date:   2021-05-30
 image:  '/images/antonio-valdes/ensayo-valdes-1.webp'
 tags:   [Literatura, Historia, Ensayo]
 author: Antonio Valdés
 ---
-Este ensayo escrito por el antropólogo y profesor Antonio Valdés para la I Bienal Internacional de Educación para la Paz, nos ofrece una retrospectiva sobre el milenario pasado de San Agustín y nos invita a reflexionar sobre el presente y futuro de nuestro Municipio.
+*{{page.description}}*
 
-Partiendo del legado arqueológico, cultural y ambiental, de su riqueza y magnificencia. Nos lleva a la actualidad, a un presente complejo lleno de incertidumbres y desafíos que nos impone la modernidad y el deterioro de la sociedad y los recursos naturales.
+*Partiendo del legado arqueológico, cultural y ambiental, de su riqueza y magnificencia. Nos lleva a la actualidad, a un presente complejo lleno de incertidumbres y desafíos que nos impone la modernidad y el deterioro de la sociedad y los recursos naturales.*
 
-Nos sugiere la construcción de un futuro, donde las comunidades sean las protagonistas, empoderadas en la transformación de la sociedad para alcanzar la paz y el equilibrio entre los hombres y la naturaleza, como alternativa para el cambio en un ámbito local como planetario.
+*Nos sugiere la construcción de un futuro, donde las comunidades sean las protagonistas, empoderadas en la transformación de la sociedad para alcanzar la paz y el equilibrio entre los hombres y la naturaleza, como alternativa para el cambio en un ámbito local como planetario.*
 
 ## San Agustín, la riqueza de su pasado y los desafíos presentes y futuros
 

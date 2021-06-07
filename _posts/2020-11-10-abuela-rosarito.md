@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  Sabiduría de abuelos | Patrimonio Inmaterial
+description: Lea algunas “formulas” de la abuela Rosario Corredor Rodriguez, nacida en Oiba, Santander, en  1918, y fallecida en el 2011 a sus 93 años.
 date:   2020-11-10 15:01:35 +0300
 image:  '/images/sabiduria-de-abuelos/abuela-rosarito.webp'
 tags:   [Patrimonio Inmaterial, Sabiduría Abuelitos]
 author: Rosario Corredor Rodriguez
 ---
-Lea algunas **“formulas” de la abuela Rosario Corredor Rodriguez**, nacida en Oiba, Santander, en  1918, y fallecida en el 2011 a sus 93 años. Rosarito fue madre soltera de 5 hijos, de origen indígena y campesino. Fue sabedora de la medicina, las plantas, la astronomía y la magia. Sus memorias las escribía ella misma en sus cuadernos que hoy en día sus hijos conservan. Enseguida algunas de sus notas:
+*Lea algunas **“formulas” de la abuela Rosario Corredor Rodriguez**, nacida en Oiba, Santander, en  1918, y fallecida en el 2011 a sus 93 años. Rosarito fue madre soltera de 5 hijos, de origen indígena y campesino. Fue sabedora de la medicina, las plantas, la astronomía y la magia. Sus memorias las escribía ella misma en sus cuadernos que hoy en día sus hijos conservan. Enseguida algunas de sus notas:*
 
 ## La Abuela Rosarito
 

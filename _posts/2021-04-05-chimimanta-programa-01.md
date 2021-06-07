@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Serie Radial Chimimanta. Programa 001
+description: Programa 001 de la Seria radial Chimimanta
 date:   2021-04-05 15:01:35 +0300
 image:  '/images/serie-radial-chimimanta/un-valle-donde-nace-vida.webp'
 tags:   [Radio, Chimimanta]
@@ -39,11 +40,11 @@ Una primera temporada de 3 programas que buscan ser la ventana a nuevas historia
 
 ## Programa "Un Valle donde nace la vida"
 
+<iframe src="https://drive.google.com/file/d/1gmtacymcvmPef5dINWtl9WqNJePLIE_r/preview" width="300" height="180"></iframe>
+
 ![Imagen de un paisaje en San Agustín Huila poblado por las primeras culturas que habitaron la zona]({{site.baseurl}}/images/serie-radial-chimimanta/un-valle-donde-nace-vida.webp "Serie radial comunitaria Chimimanta - Programa 001")
 *Interacción del programa con la comunidad de San Agustín*
 
 * **Tema**: Aproximación a la historia del valle de San Agustín.
 * **Nombre**: Un Valle donde nace la Vida.
 * **Objetivo**: Acercar al oyente a esos momentos de la historia que determinaron quienes habitan este valle y a su riqueza ambiental y arqueológica. Al legado de un pueblo milenario.
-
-<iframe src="https://drive.google.com/file/d/1gmtacymcvmPef5dINWtl9WqNJePLIE_r/preview" width="300" height="180"></iframe>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Libro Estatuas del Pueblo Escultor
+description: El libro ‘Las Estatuas del Pueblo Escultor / The Statues of the Pueblo Escultor’, publicado en el 2012, de edición y distribución independiente
 date:   2021-03-09 15:01:35 +0300
 image:  '/images/david-dellenback/portada-estatuas-pueblo-escultor.webp'
 tags:   [Biblioteca, Literatura]

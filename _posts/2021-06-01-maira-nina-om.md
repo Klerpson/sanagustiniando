@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  Maira, la niña Om
+description: Milciades Martinez, es uno de los antiguos residentes que hace tiempo llegó de otras partes de Colombia a San Agustín. Es recopilador de historias y sueños; y creador de la famosa “Chiva Galáctica”.
 date:   2021-06-01
 image:  '/images/milciades-martinez/milciades-principal.webp'
 tags:   [Literatura, Personajes, Cuento]
 author: Milciades Martínez
 ---
-**Milciades Martinez**, es uno de los antiguos residentes que hace tiempo llegó de otras partes de Colombia a San Agustín. Es recopilador de historias y sueños; y creador de la famosa “Chiva Galáctica”. Comúnmente sus memorias las inicia con esta frase: “A los locos cuerdos y a las cuerdas locas con quienes me he encontrado caminando por los barrancos de La Vida”. En este caso recopila la oralidad de otra hija del pueblo: Maira, la niña OM
+*{{page.description}}. Comúnmente sus memorias las inicia con esta frase: “A los locos cuerdos y a las cuerdas locas con quienes me he encontrado caminando por los barrancos de La Vida”. En este caso recopila la oralidad de otra hija del pueblo.*
 
 ## {{page.title}}
 
