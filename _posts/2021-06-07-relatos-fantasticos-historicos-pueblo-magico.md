@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Relatos fantásticos e históricos del pueblo mágicos de San Agustín
+title:  Relatos fantásticos e históricos del pueblo mágico de San Agustín
 description: En el año 2010 recibimos el libro “Relatos fantásticos e históricos del pueblo mágico de San Agustín”. Desde el día del lanzamiento, entendimos que el Profesor Luis Alberto Bravo Buchelli hizo un juicioso trabajo de recopilación de cuentos y leyendas campesinas y urbanas de nuestro territorio.
 date:   2021-06-01
 image:  '/images/luis-alberto-bravo/tambo-robao.webp'

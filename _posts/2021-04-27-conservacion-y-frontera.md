@@ -15,4 +15,4 @@ Esta investigación arroja un importante diagnóstico sobre el estado de la cons
 
 Se abre la discusión sobre temas como mecanismos de participación, gobernanza comunitaria y planificación territorial, en un municipio con una diversidad de ecosistemas y alto valor patrimonial, lo que lo posiciona estratégicamente a nivel nacional como global, como un hito ambiental y cultural.
 
-Puedes descargar aquí el [resumen de la investigación]({{site.baseurl}}/biblioteca)
+Puedes descargar aquí el [resumen de la investigación](https://drive.google.com/file/d/17p3Jssg7Acg8REpBRW-6QLnDUZ9x1M6M/view?ts=60870ded)
