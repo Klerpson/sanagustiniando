@@ -26,5 +26,3 @@ Eran las tres de la tarde del miércoles, un día en que todo parecía ser norma
 Al día siguiente notó cambios en el comportamiento de los habitantes. Ya no era él quien salía en pleno aguacero en bola, sino las demás personas, así como también eran los otros quienes hablaban con las piedras, con los ratones, con los pajaritos y comían flores. Todo le pareció tan extraño a Saturdino, pensó: “todos se han vuelto locos, haciendo semejantes estupideces”.
 
 Con el transcurrir de los días Saturdino observó que todos los moradores del pueblo deambulaban felices de la vida, gritaban, cantaban, soñaban y reían; todos eran plenamente felices menos él. Recordó cómo era su vida antes de que el cielo se oscureciera. Sintió que la nostalgia lo invadía y que su vida era solo tristeza. Empezaron a bajar lágrimas de sus mejillas. Decidió empacar sus pocas pertenencias y partir para otro pueblo lejano, un pueblo donde nadie lo conociera; y esperar entonces, si alguna tarde de algún miércoles, el cielo volvía a oscurecerse y las cosas volvían a ser como antes.
-
-<cite>Por {{page.author}}</cite>

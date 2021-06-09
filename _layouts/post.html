@@ -40,6 +40,9 @@ layout: default
 
         <div class="post__content">
           {{ content }}
+          {% if page.author %}
+          <cite>Por {{page.author}}</cite>
+          {% endif %}
         </div>
 
         <div class="post__share">

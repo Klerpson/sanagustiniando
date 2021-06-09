@@ -74,5 +74,3 @@ La Bitácora Artística, nace desde el caminar por diferentes rincones de Colomb
 Manuela Yaya aprendiz del camino, desde hace 8 años que vive en Cachipay Cundinamarca y desde ahí como su punto de base a caminado diferentes rincones de Colombia, compartiendo, aprendiendo y registrando en dibujo, pintura y escultura, algunos lugares vividos, abuelas y abuelos o personajes que le abren sus puertas, sus historias y corazones. Y sintiendo la importancia de compartir parte de la magia que aguardianan estos abuelos y abuelas que logran permearla. Hoy comparte una pincelada de la “Bitácora de Trocha”, con la finalidad de que nazca la curiosidad, el interés de vivirnos la experiencia, de estar atentos y de una manera consciente, sentir la palabra, la experiencia, la sabiduría vivida y la tierna compañía, que estas abuelas abuelos encarnan. Desde un mundo tan lleno de esa magia que aguardiana todo tiempo pasado…
 
 “Es de aclarar que la base de la Bitácora, esa mancha central que liga y unifica toda la Bitácora, está hecha de tinto, del tinto que cada uno de las abuelas y abuelos compartió”.
-
-<cite>Por Manuela Yaya</cite>

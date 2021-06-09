@@ -83,5 +83,3 @@ De repente sintió que alguien la zarandeaba mientras decía:
 - ¿Qué hora es? -preguntó Kat.
 
 Su padre respondió – Es la 1:00 PM Katalina, ¡hora de almorzar!...
-
-<cite>Por Katalina Ballas. "Pueblo Escultor"</cite>

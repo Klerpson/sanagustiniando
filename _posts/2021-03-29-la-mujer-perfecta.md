@@ -36,5 +36,3 @@ Ella es la mujer con la que vivo
 Ella es la mujer de la cual yo me alimento 
 La que me quita la sed dándome de sus aguas 
 Ella es la mujer, por favor no la matemos
-
-<cite>Por: Agustin Andaquí</cite>

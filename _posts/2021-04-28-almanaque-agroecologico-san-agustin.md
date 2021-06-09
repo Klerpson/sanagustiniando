@@ -72,6 +72,4 @@ el pasado más allá de lo arqueológico con su realidad y su presente.
 Bienvenidos a reconocer el paisaje y la memoria del macizo colombiano  
 a través de este Almanaque de San Agustín.
 
-<cite>Por Lyna Bristol</cite>
-
 <!-- Puedes descargar aquí el [Almanaque Agroecológico de San Agustín](https://drive.google.com/file/d/1rOgM9DG6VxyKVAvtDB7awB3Rjz2aS-iB/view?ts=6085d827) -->

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  El doble yo de Sigmund Freud
-description: DIEGO MARTÍNEZ CELIS es ante todo, un buen amigo de San Agustín, ha acompañado desde su profesión como Mgter en patrimonio cultural y territorio los procesos sociales, de investigación y apropiación del patrimonio arqueológico de nuestro territorio. Su trabajo se puede ver en importantes portales virtuales que él mismo alimenta como Rupestre web y Divulgark. Una faceta poco conocida de Diego es su talento como escritor de ficción. Con este cuento nos traslada al mundo donde Sigmund Freud y el Doble Yo del Pueblo Escultor se combinan.
+description: DIEGO MARTÍNEZ CELIS es ante todo, un buen amigo de San Agustín, ha acompañado desde su profesión como Mgter en patrimonio cultural y territorio los procesos sociales
 date:   2021-05-16
 image:  '/images/diego-celis/doble-yo-sigmund-freud.webp'
 tags:   [Literatura]
 author: Diego Martínez Celis
 ---
-*{{page.description}}*
+*{{page.description}}, de investigación y apropiación del patrimonio arqueológico de nuestro territorio. Su trabajo se puede ver en importantes portales virtuales que él mismo alimenta como Rupestre web y Divulgark. Una faceta poco conocida de Diego es su talento como escritor de ficción. Con este cuento nos traslada al mundo donde Sigmund Freud y el Doble Yo del Pueblo Escultor se combinan.*
 
 ## El Doble Yo de Sigmund Freud
 
@@ -42,5 +42,3 @@ Lo cierto es que en San Agustín, los más viejos aún recuerdan la llegada de �
 Un día más no lo vieron, ni presumido como muerto se halló su cadáver; pero en el Alto de Las Piedras permanece erguida una estatua que nadie había advertido antes y en que dicen que transmutó el mismísimo “don Segismundo”; es aquella tan famosa en los libros que hoy llaman el Doble Yo.
 
 ![Dibujo del Doble Yo]({{site.baseurl}}/images/diego-celis/dibujo-doble-yo.webp)
-
-<cite>Por {{page.author}}</cite>

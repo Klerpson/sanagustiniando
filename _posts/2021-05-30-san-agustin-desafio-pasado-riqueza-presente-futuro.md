@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  San Agustín, la riqueza de su pasado y los desafíos presentes y futuros
-description: Este ensayo escrito por el antropólogo y profesor Antonio Valdés para la I Bienal Internacional de Educación para la Paz, nos ofrece una retrospectiva sobre el milenario pasado de San Agustín y nos invita a reflexionar sobre el presente y futuro de nuestro Municipio.
+description: Este ensayo escrito por el antropólogo y profesor Antonio Valdés para la I Bienal Internacional de Educación para la Paz
 date:   2021-05-30
 image:  '/images/antonio-valdes/ensayo-valdes-1.webp'
 tags:   [Literatura, Historia, Ensayo]
 author: Antonio Valdés
 ---
-*{{page.description}}*
+*{{page.description}}, nos ofrece una retrospectiva sobre el milenario pasado de San Agustín y nos invita a reflexionar sobre el presente y futuro de nuestro Municipio.*
 
 *Partiendo del legado arqueológico, cultural y ambiental, de su riqueza y magnificencia. Nos lleva a la actualidad, a un presente complejo lleno de incertidumbres y desafíos que nos impone la modernidad y el deterioro de la sociedad y los recursos naturales.*
 
@@ -48,5 +48,3 @@ Hoy nos es catastrófica esta plataforma de entonces cuando vemos que aquel ens
 Hoy que estamos presenciando las contradicciones de una política económica extractivista, de un desarrollo sin escala humana ni con la consideración de los proyectos vitales de los pueblos, en medio de una democracia institucional que aún es carente de esa democracia social que se funda en el respeto de los derechos humanos y de la carta de la tierra.
 
 Hoy en el marco de este encuentro de quienes soñamos una paz que se ha de construir desde las comunidades en equilibrio con los recursos y que construya desde la superación de contradicciones estructurales y el enriquecimiento ambiental, simbólico y cultural, les invito a que escuchemos (y leamos -N. del Ed.) y nos sumemos a lo que plantea el Manifiesto “El Río de la Vida” del Comité Defensores del Macizo Colombiano y del Río Magdalena. Un colectivo social que en su ejercicio cotidiano está orientado a la construcción de diversas acciones y procesos relacionados con la consolidación de una paz soñada por todos.
-
-<cite>Por {{page.author}}</cite>

@@ -158,5 +158,3 @@ Toda la gente del funeral se había ido, hace rato seguramente; no  quedaron en 
 El sepulturero, un flaco de bigote en sombrerito destartalado de paja, miró hacia arriba al Chapu, le brilló una sonrisa sonora, y contestó: *Para el próximo*.
 
 Todos lo oímos. Nos apresuramos en salir rapidito del campo santo. Era un día hermoso, teníamos cosas que hacer.
-
-<cite>por David Dellenback</cite>
