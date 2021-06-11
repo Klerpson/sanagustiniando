@@ -33,21 +33,103 @@
   <!-- og -->
   <meta property="og:locale" content="es_CO"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:title" content="{%if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}"/>
-  <meta property="og:url" content="{{ page.url}}"/>
-  <meta property="og:image" content="{{ site.url}}{{ page.img}}"/>
+  <meta property="og:title" content="{%if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}"/>
+  <meta property="og:url" content="{{page.url}}"/>
+  <meta property="og:image" content="{{site.url}}{{ page.img}}"/>
   <meta property="og:site_name" content="sanagustiniando"/>
   <meta property="article:publisher" content="{{site.facebook}}"/>
   <meta property="article:author" content="https://www.facebook.com/SanAgustiniando"/>
-  <meta property="article:published_time" content="{{ page.date}}" />
-  <meta property="og:description" content="{% if page.description %}{{ page.description}}{% else %}{{ page.title}}{% endif %}"/>
+  <meta property="article:published_time" content="{{page.date}}" />
+  <meta property="og:description" content="{% if page.description %}{{page.description}}{% else %}{{page.title}}{% endif %}"/>
   <!-- og end -->
   {% endif %}
   <style>
     {% capture include_to_scssify %}
       {% include main.scss %}
     {% endcapture %}
-    {{include_to_scssify | scssify}}
+    {{ include_to_scssify | scssify }}
+
+    @media screen and (min-width: 992px) {
+     .header .container{
+    display: flex;
+    justify-content: center;
+  }}
+
+    /* acordeon */
+    #container-main{
+      margin:40px auto;
+      width:95%;
+      min-width:320px;
+      max-width:960px;
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #container-main h4{
+      font-size: 1.5rem;
+      text-transform: capitalize;
+    }
+
+  .accordion-container {
+  	width: 100%;
+  	margin: 0 0 20px;
+  	clear:both;
+  }
+
+  .accordion-titulo {
+  	position: relative;
+  	display: block;
+  	padding: 20px;
+  	font-size: 24px;
+  	font-weight: 300;
+  	background: #02C4EC;
+  	color: #fff;
+  	text-decoration: none;
+    text-align: center;
+  }
+  .accordion-titulo.open {
+  	background: #6b6a79;
+  	color: #fff;
+  }
+
+  .accordion-titulo:hover {
+  	color: #fff;
+  }
+
+  .accordion-titulo span.toggle-icon:before {
+  	content:"+";
+  }
+
+  .accordion-titulo.open span.toggle-icon:before {
+  	content:"-";
+  }
+
+  .accordion-titulo span.toggle-icon {
+  	position: absolute;
+  	top: 10px;
+  	right: 20px;
+  	font-size: 38px;
+  	font-weight:bold;
+  }
+
+  .accordion-content {
+  	display: none;
+  	padding: 20px;
+  	overflow: auto;
+  }
+
+  .accordion-content p{
+  	margin: 1.2rem 0;
+  }
+
+  @media (max-width: 767px) {
+  	.accordion-content {
+  		padding: 10px 0;
+  	}
+  }
+
+    /* fin acordeon */
   </style>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RC9KTRZDV7"></script>

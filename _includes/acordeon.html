@@ -1,0 +1,12 @@
+<div id="container-main">
+  {% for libro in site.data.libros %}
+  <h4>{{libro.nombre}}</h4>
+  <a href="{{libro.link}}"><img src="{{site.baseurl}}{{libro.imagen}}" alt="{{libro.alt}}" /></a>
+  <div class="accordion-container">
+    <a href="#" class="accordion-titulo">Introducción<span class="toggle-icon"></span></a>
+    <div class="accordion-content">
+      <p>{{libro.intro}}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
