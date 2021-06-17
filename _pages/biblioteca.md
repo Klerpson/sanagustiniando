@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biblioteca de San Agustín
+title: Biblioteca
 permalink: /biblioteca/
 image: '/images/paisaje-sanagustin.webp'
 ---
