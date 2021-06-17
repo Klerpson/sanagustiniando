@@ -6,6 +6,7 @@ date:   2021-04-05 15:01:35 +0300
 image:  '/images/serie-radial-chimimanta/un-valle-donde-nace-vida.webp'
 tags:   [Radio, Chimimanta]
 author: Serie Radial Chimimanta
+photo: Tseden Parra
 ---
 En la búsqueda de la apropiación del territorio y la cultura, el colectivo de comunicación “Chimimanta” nace como respuesta a la necesidad de **crear contenidos radiales que permitieran la mirada y la participación de la comunidad** del municipio de San Agustín en la emisora comunitaria Uno A estéreo a partir del 2013.
 

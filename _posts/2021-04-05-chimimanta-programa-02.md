@@ -6,6 +6,7 @@ date:   2021-04-05 15:01:35 +0300
 image:  '/images/serie-radial-chimimanta/huellas-en-el-barro.webp'
 tags:   [Radio, Chimimanta]
 author: Serie Radial Chimimanta
+photo: Tseden Parra
 ---
 ## Programa 002
 

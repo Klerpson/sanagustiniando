@@ -6,6 +6,7 @@ date:   2021-04-05 15:01:35 +0300
 image:  '/images/david-dellenback/primera-muerte-don-eliecer.webp'
 tags:   [Literatura, Cuento]
 author: David Dellenback
+photo: David Dellenback
 ---
 *Este cuento relata una **anécdota local ocurrido en San Agustín** hace unos pocos años. Cuenta **la historia de don Eliecer Ordoñez**, un anciano campesino que por una mala oída y un rumor flotante, tuvo la “experiencia” de morir sin haber muerto.  Escrito por David Dellenback, escritor binacional colombiano-norteamericano, quien desde hace años registra algunas realidades agustinianas.*
 

@@ -6,6 +6,7 @@ date:   2020-06-20 15:01:35 +0300
 image:  '/images/martha-gil/san-agustin-orilla-del-mar.webp'
 tags:   [Literatura]
 author: Martha Gil
+photo: Milciades Martínez
 featured: true
 ---
 *Este relato nos da un paseo por **la aventura vivida por la autora al quedarse atrapada en la orilla del mar en el norte del Peru**, durante el cierre ocasionado por la llegada del virus Covid-19 a América. Evoca el mundo de los temores, anhelos y sueños que se develan al estar lejos de su pueblo San Agustín y sin forma de regresar.*

@@ -19,10 +19,9 @@ layout: default
       <!-- begin post -->
       <article class="post animate">
         <div class="post-head">
-          <div class="post__author">
-            <span>Por</span>
-            <a href="{{site.baseurl}}/nosotros/" class="post__author-image" style="background-image: url({{site.baseurl}}{{page.avatar}})" aria-label="{{page.author}}'s Picture"></a> <a href="{{site.baseurl}}/nosotros/" class="post__author-link">{{page.author}}</a>
-          </div>
+          {% if page.photo %}
+          <div class="post__author"><p>Fotografía de {{page.photo}}</p></div>
+          {% endif %}
           <h1 class="post-title">{{ page.title | escape }}</h1>
           <div class="post__meta">
             {% if page.tags.size >= 1 %}
@@ -40,9 +39,10 @@ layout: default
 
         <div class="post__content">
           {{ content }}
-          {% if page.author %}
-          <cite>Por {{page.author}}</cite>
-          {% endif %}
+        </div>
+        <div class="post__author">
+          <span>Por</span>
+          <a href="{{site.baseurl}}/nosotros/" class="post__author-image" style="background-image: url({{site.baseurl}}{{page.avatar}})" aria-label="{{page.author}}'s Picture"></a> <a href="{{site.baseurl}}/nosotros/" class="post__author-link">{{page.author}}</a>
         </div>
 
         <div class="post__share">

@@ -1,11 +1,20 @@
 [
   
     {
+      "title"    : "Carlos &#39;Cartes&#39;",
+      "category" : "",
+      "tags"     : "Reseña and Artista Emergente",
+      "url"      : "/carlos-cartes",
+      "date"     : "Jun 15, 2021",
+      "image": "/images/artista-emergente/carlos-cartes.webp"
+    } ,
+  
+    {
       "title"    : "Tambo robao",
       "category" : "",
       "tags"     : "Literatura and Relatos Fantásticos",
-      "url"      : "/relatos-fantasticos-historicos-pueblo-magico",
-      "date"     : "Jun 1, 2021",
+      "url"      : "/cuento-tambo-robao",
+      "date"     : "Jun 7, 2021",
       "image": "/images/luis-alberto-bravo/tambo-robao.webp"
     } ,
   

@@ -6,6 +6,7 @@ date:   2021-04-08
 image:  '/images/novedades-literarias/nueva-guia-aves/avistamiento-aves.webp'
 tags:   [Biblioteca, Cultura, Literatura]
 author: SanAgustiniando
+photo: Milena Alarcón
 ---
 Un grupo de habitantes de San Agustín, en su búsqueda de la apropiación del patrimonio natural y específicamente de las aves, han reunido su entrega, dedicación y esfuerzo **para publicar la primera Guía de Aves en el Pueblo Escultor**.
 

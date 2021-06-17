@@ -2,10 +2,11 @@
 layout: post
 title:  Tambo robao
 description: En el año 2010 recibimos el libro “Relatos fantásticos e históricos del pueblo mágico de San Agustín”. Desde el día del lanzamiento, entendimos que el Profesor Luis Alberto Bravo Buchelli hizo un juicioso trabajo de recopilación de cuentos y leyendas campesinas y urbanas de nuestro territorio.
-date:   2021-06-01
+date:   2021-06-07
 image:  '/images/luis-alberto-bravo/tambo-robao.webp'
 tags:   [Literatura, Relatos Fantásticos]
 author: Luis Alberto Bravo Buchelli
+photo: Luis Alberto Bravo
 ---
 *{{page.description}}. Las juntó en este texto de obligatoria referencia para quienes habitamos este territorio. Ideal para jóvenes y para los que de alguna manera quieren conocer la historia y la cultura agustinense. Con esta presentación, iniciamos el ciclo para dar a conocer periódicamente un relato y seguir SANAGUSTINIANDO.*
 

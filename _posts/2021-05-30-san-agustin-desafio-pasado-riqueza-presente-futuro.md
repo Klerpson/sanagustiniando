@@ -6,6 +6,7 @@ date:   2021-05-30
 image:  '/images/antonio-valdes/ensayo-valdes-1.webp'
 tags:   [Literatura, Historia, Ensayo]
 author: Antonio Valdés
+photo: Tseden Parra
 ---
 *{{page.description}}, nos ofrece una retrospectiva sobre el milenario pasado de San Agustín y nos invita a reflexionar sobre el presente y futuro de nuestro Municipio.*
 

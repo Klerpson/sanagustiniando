@@ -6,6 +6,7 @@ date:   2021-03-29
 image:  '/images/arturo-mosquera/arturo-mosquera.webp'
 tags:   [Literatura, Poesía]
 author: Arturo Mosquera
+photo: Belisa Mosquera
 ---
 *Este hermoso poema repasa el sueño de un hombre con una mujer extraordinaria, la más hermosa, seductora y sensual del mundo, y el éxtasis que compartió con esa gran diosa. Arturo Mosquera, fallecido en el 2018, vivió en San Agustín la mayor parte de su vida; su lema era el chiste y la risa, y fue un artista integral: escritor, pintor, escultor y soñador. El legado de Arturo vive en sus obras, en sus poemas, pinturas y pirograbados, pero especialmente en las calles y gente de San Agustín.*
 

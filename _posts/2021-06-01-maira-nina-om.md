@@ -6,6 +6,7 @@ date:   2021-06-01
 image:  '/images/milciades-martinez/milciades-principal.webp'
 tags:   [Literatura, Personajes, Cuento]
 author: Milciades Martínez
+photo: Milciades Martinez
 ---
 *{{page.description}}. Comúnmente sus memorias las inicia con esta frase: “A los locos cuerdos y a las cuerdas locas con quienes me he encontrado caminando por los barrancos de La Vida”. En este caso recopila la oralidad de otra hija del pueblo.*
 

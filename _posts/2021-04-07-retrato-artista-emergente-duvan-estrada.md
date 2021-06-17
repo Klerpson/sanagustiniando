@@ -6,6 +6,7 @@ date:   2021-04-07 15:01:35 +0300
 image:  '/images/artista-emergente/duvan-estrada.webp'
 tags:   [Reseña, Artistas]
 author: Fundación Ipakú
+photo: Sanagustiniando
 ---
 *Duvan Estrada, recientemente titulado Maestro en Artes, es quien nos relata parte de su obra, “**RETRATO DE UN ARTISTA EMERGENTE**”. Un joven inquieto, con una inclinación hacia las causas sociales y que parte de su obra refleja la identidad, la riqueza humana, ambiental y cultural con la que cuenta el territorio.*
 

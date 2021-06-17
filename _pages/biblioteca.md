@@ -2,7 +2,7 @@
 layout: page
 title: Biblioteca de San Agustín
 permalink: /biblioteca/
-image: '/images/portada-sanagustiniando.webp'
+image: '/images/paisaje-sanagustin.webp'
 ---
 Aquí recopilaremos material bibliográfico relacionado con San Agustín y el Macizo Colombiano. Algunos de los libros (donados y/o autorizados por sus autores a Sanagustiniando para ser incluidos en esta biblioteca virtual) están en PDF. También se pueden encontrar versiones o enlaces que conducen a sitios virtuales con textos de lectura que son de libre difusión.
 

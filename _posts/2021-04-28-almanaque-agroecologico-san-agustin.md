@@ -6,6 +6,7 @@ date:   2021-04-28
 image:  '/images/almanaque/almanaque.webp'
 tags:   [Ecología, Biología, Personajes, Almanaque]
 author: Lyna Bristol
+photo: Tseden Parra
 ---
 **{{page.description}}. Carlos Andrés Meza y Lina María Cortés fueron los que idearon, investigaron y compilaron este proyecto que devela un importante perfil socio cultural de San Agustín. La obra fue publicada por el ICANH en el 2014. Aquí, para Sanagustiniando, Lina Maria Cortés nos hace una reflexion sobre su contenido y registra con nosotros algunas memorias:*
 

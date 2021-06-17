@@ -6,6 +6,7 @@ date:   2021-05-16
 image:  '/images/diego-celis/doble-yo-sigmund-freud.webp'
 tags:   [Literatura]
 author: Diego Martínez Celis
+photo: Diego Martínez
 ---
 *{{page.description}}, de investigación y apropiación del patrimonio arqueológico de nuestro territorio. Su trabajo se puede ver en importantes portales virtuales que él mismo alimenta como Rupestre web y Divulgark. Una faceta poco conocida de Diego es su talento como escritor de ficción. Con este cuento nos traslada al mundo donde Sigmund Freud y el Doble Yo del Pueblo Escultor se combinan.*
 
