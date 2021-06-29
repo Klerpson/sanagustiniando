@@ -43,11 +43,6 @@ disqus-identifier: sanagustiniando # Add your shortname for Disqus Comment. For 
 
 
 #-------------------------------
-# Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
-
-
-#-------------------------------
 # Newsletter
 mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
 mailchimp-text: Suscríbite y recibirás toda la información de la rica cultura de San Agustín Huila. # Add your description.
