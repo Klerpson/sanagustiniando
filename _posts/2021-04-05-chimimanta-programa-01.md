@@ -41,7 +41,7 @@ Una primera temporada de 3 programas que buscan ser la ventana a nuevas historia
 
 ## Programa "Un Valle donde nace la vida"
 
-<iframe src="https://drive.google.com/file/d/1gmtacymcvmPef5dINWtl9WqNJePLIE_r/preview" width="300" height="180"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/225136753&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sanagustiniando" title="SANAGUSTINIANDO" target="_blank" style="color: #cccccc; text-decoration: none;">SANAGUSTINIANDO</a> · <a href="https://soundcloud.com/sanagustiniando/programa-1-un-valle-donde-nace-la-vida" title="Programa 1 - Un Valle Donde Nace La Vida" target="_blank" style="color: #cccccc; text-decoration: none;">Programa 1 - Un Valle Donde Nace La Vida</a></div>
 
 ![Imagen de un paisaje en San Agustín Huila poblado por las primeras culturas que habitaron la zona]({{site.baseurl}}/images/serie-radial-chimimanta/un-valle-donde-nace-vida.webp "Serie radial comunitaria Chimimanta - Programa 001")
 *Interacción del programa con la comunidad de San Agustín*

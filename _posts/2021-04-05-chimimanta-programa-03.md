@@ -10,7 +10,7 @@ photo: Tseden Parra
 ---
 ## Programa 003
 
-<iframe src="https://drive.google.com/file/d/1cWrnNqFdi8R0LG0wLBUaoo4uxoBkK4tK/preview" width="300" height="180"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1021700287&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sanagustiniando" title="SANAGUSTINIANDO" target="_blank" style="color: #cccccc; text-decoration: none;">SANAGUSTINIANDO</a> · <a href="https://soundcloud.com/sanagustiniando/3-suenos-y-acciones-palabras-en-construccion" title="3. Sueños y Acciones Palabras en Construcción" target="_blank" style="color: #cccccc; text-decoration: none;">3. Sueños y Acciones Palabras en Construcción</a></div>
 
 ![Paisaje de San Agustín Huila]({{site.baseurl}}/images/serie-radial-chimimanta/una-sociedad-nueva.webp "Serie radial comunitaria Chimimanta - Programa 003")
 
