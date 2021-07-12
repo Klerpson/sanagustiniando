@@ -1,6 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Sanagustiniando
+name: Sanagustiniando
 description: El portal cultural, de registro y difusión de la memoria de San Agustín, Isnos y el Macizo Colombiano. ¡Bienvenidos!
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://sanagustiniando.co" # The base hostname & protocol for your site, e.g. http://example.com

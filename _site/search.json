@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Copla a San Agustín",
+      "category" : "",
+      "tags"     : "Literatura and Patrimonio",
+      "url"      : "/copla-a-san-agustin",
+      "date"     : "Jul 12, 2021",
+      "image": "/images/luis-alberto-bravo/alcaldia-antigua.webp"
+    } ,
+  
+    {
       "title"    : "La Repatriación de las Estatuas en Berlín",
       "category" : "",
       "tags"     : "Historias and Personajes",
